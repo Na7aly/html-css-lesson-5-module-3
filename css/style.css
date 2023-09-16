@@ -1,0 +1,16 @@
+body{background-color: rgb(129, 79, 20);
+font-family 'Arial Narrow Bold', sans-serif;
+margin:0;}
+
+.wrapper h1{color: rgb(207, 218, 198);}
+.wrapper{
+  /*  border-width: 5px;
+    border-style: solid;
+    border-color: rgb(180, 131, 233);*/
+border: 5px dashed tomato;
+text-align:center;
+margin-top: 100px;
+padding-bottom: 100px;
+padding-top: 100px;
+}
+
